@@ -23,3 +23,12 @@ npm run unit
 # run all tests
 npm test
 ```
+
+### 作品展示  
+![image](https://raw.githubusercontent.com/XiaoxinJiang/vueMusic/master/showImg/recommend.png)
+![image](https://raw.githubusercontent.com/XiaoxinJiang/vueMusic/master/showImg/count.png)
+![image](https://raw.githubusercontent.com/XiaoxinJiang/vueMusic/master/showImg/audioBox.png)
+![image](https://raw.githubusercontent.com/XiaoxinJiang/vueMusic/master/showImg/songListMeng.png)
+![image](https://raw.githubusercontent.com/XiaoxinJiang/vueMusic/master/showImg/search.png)
+![image](https://raw.githubusercontent.com/XiaoxinJiang/vueMusic/master/showImg/searchList.png)
+![image](https://raw.githubusercontent.com/XiaoxinJiang/vueMusic/master/showImg/singer.png)
